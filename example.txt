@@ -1,2 +1,6 @@
 This is some text.
+<<<<<<< HEAD
 This is a different change.
+=======
+This is a new feature.
+>>>>>>> new-feature
